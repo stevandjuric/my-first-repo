@@ -1,0 +1,3 @@
+Ime: Stevan Djuric
+Datum: 30.03.2026
+Ovo je moj prvi GitHub zadatak.
